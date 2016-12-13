@@ -9,7 +9,7 @@ var apiProxy = httpProxy.createProxyServer(
     changeOrigin: true
   }
 );
-var port = 3000;
+var port = 443;
 
 console.log('initializing...');
 
