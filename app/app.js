@@ -9,7 +9,7 @@ var apiProxy = httpProxy.createProxyServer(
     changeOrigin: true
   }
 );
-var port = 8080;
+var port = 3000;
 
 console.log('initializing...');
 
